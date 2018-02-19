@@ -1,7 +1,7 @@
 {
-  "name": "TASK Board",
+  "name": "taskboard",
   "version": "1.0.0",
-  "description": "Simple TASK Board",
+  "description": "simple task board",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
