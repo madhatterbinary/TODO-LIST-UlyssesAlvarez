@@ -30,7 +30,7 @@ class Add extends Component {
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    onTaskAdded: (todoText) => dispatch(actions.addTask(todoText))
+    onTaskAdded: (todoText) => dispatch(actions.startAddTask(todoText))
   }
 }
 
